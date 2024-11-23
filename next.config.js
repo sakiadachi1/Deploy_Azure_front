@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'standalone'}
+    // Next.js の設定をここに記述
+};
 
-export default nextConfig
+module.exports = nextConfig;
